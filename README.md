@@ -1,3 +1,2 @@
 # Description
-qShadowBo$$
-C#
+qShadowBo$$, C#
